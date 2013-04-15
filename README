@@ -1,0 +1,7 @@
+My python solutions to two of the qualification round questions (more than enough to get past the first round)
+
+The solution for 'a' works for all input sizes
+
+The solution for 'c' works for the small and medium input sizes, but cannot create a list of palindromic squares fast enough for numbers up to 10^100, as required for the large input.
+
+The other questions were not attempted (these solutions gave me more than enough points to move to the next round).
